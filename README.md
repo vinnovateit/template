@@ -58,10 +58,28 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- Put the PROJECT LOGO here -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinnovateit/.github/main/assets/whiteLogoViit.svg">
+  <img alt="Project Logo" src="https://raw.githubusercontent.com/vinnovateit/.github/main/assets/blackLogoViit.svg" width="200" align="right">
+</picture>
 
 Do a search and replace with your text editor for the following: `repo_name`, `project_title`, `project_description`, `project_license`
 
+<!-- Put appropriate SCREENSHOTS here
+Use width modifier to control size
+Use wisely: don't overfill & don't use too heavy imgs
+-->
+<details>
+  <summary><b>Screenshots</b></summary>
+  
+  | Landing page | Login |
+  | :--------------: | :--------: |
+  | <img width="60%" alt="Home screen" src="https://raw.githubusercontent.com/vinnovateit/.github/main/assets/whiteLogoViit.svg"> | <img width="60%" alt="Login page" src="https://raw.githubusercontent.com/vinnovateit/.github/main/assets/whiteLogoViit.svg"> |
+  | **Dashboard | **Something** |
+  | <img width="60%" alt="Donation page" src="https://raw.githubusercontent.com/vinnovateit/.github/main/assets/whiteLogoViit.svg"> | <img width="60%" alt="pwa flow" src="https://raw.githubusercontent.com/vinnovateit/.github/main/assets/whiteLogoViit.svg"> |
+
+</details>
 
 ### Built With
 
@@ -137,8 +155,6 @@ _For more examples, please refer to the [Documentation](https://github.com/vinno
 
 
 
-
-
 ### Top contributors:
 
 <a href="https://github.com/vinnovateit/repo_name/graphs/contributors">
@@ -162,7 +178,6 @@ _For more examples, please refer to the [Documentation](https://github.com/vinno
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB
