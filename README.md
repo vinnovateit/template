@@ -173,7 +173,9 @@ _For more examples, please refer to the [Documentation](https://github.com/vinno
 * []()
 
 
-
+<p align="center">
+	Made with :heart: by <a href="https://vinnovateit.com">VinnovateIT</a>
+</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
